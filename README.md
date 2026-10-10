@@ -14,8 +14,8 @@ A Django-based payment web application with user authentication, OTP verificatio
 
 1. Clone the repository
 ```
-git clone https://github.com/userAnonymous/bdpay.git
-cd bdpay
+git clone https://github.com/ramim-kobir/django_email_otp_auth_system.git
+cd django_email_otp_auth_system
 ```
 
 2. Install dependencies
